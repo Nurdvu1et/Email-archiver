@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+email_archive.db
+email_archive/

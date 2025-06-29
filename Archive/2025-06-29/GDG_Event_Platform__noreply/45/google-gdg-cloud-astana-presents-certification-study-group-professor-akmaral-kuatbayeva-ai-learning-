@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bevy Labs//Bevy//
+METHOD:REQUEST
+BEGIN:VEVENT
+SUMMARY:Certification study group - Professor Akmaral Kuatbayeva AI learni
+ ng group Astana IT University [6]
+DTSTART;VALUE=DATE-TIME:20240930T040000Z
+DTEND;VALUE=DATE-TIME:20240930T070000Z
+DTSTAMP;VALUE=DATE-TIME:20240928T104623Z
+UID:google/72206/Event/Bevy
+SEQUENCE:1727520383
+ATTENDEE;CN="Nurdaulet Ahmadiev";PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RS
+ VP=TRUE:MAILTO:nurdaulet.xamit.bk@gmail.com
+DESCRIPTION:Theoretical assessment – based on the Google Badges \nPracti
+ cal assessment on Google skill badge labs reports\, Midterm\, endterm and 
+ final project (9 SKILL badges  https://www.cloudskillsboost.google/paths/1
+ 83)\nCompetence -based evaluation listed in  Student Performance Evaluatio
+ n System for the Course\n\n\nVirtual event URL: https://gdg.community.dev/
+ m/j/bv7u33kmxbum6/?ml=ABCeMAjr_X-q0pUNhDpkl7_h
+LOCATION:https://gdg.community.dev/m/j/bv7u33kmxbum6/?ml=ABCeMAjr_X-q0pUNh
+ Dpkl7_h
+PRIORITY:5
+STATUS:CONFIRMED
+URL:https://gdg.community.dev/m/j/bv7u33kmxbum6/?ml=ABCeMAjr_X-q0pUNhDpkl7
+ _h
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
